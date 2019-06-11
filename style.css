@@ -1,0 +1,32 @@
+.header {
+/* 位置を固定 position*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: coral;
+    height: 100px;
+    width: 100%;
+    
+}
+
+.main{
+    background-color: beige;
+    height: 400px;
+    /*divタグはブロック要素なので幅なくても大丈夫    */
+    margin-top: 100px;
+}
+
+.main2{
+    background-color: burlywood;
+    height: 400px;
+}
+
+.main3{
+    background-color: skyblue;
+    height: 400px;
+}
+
+.footer {
+    background-color: lavender;
+    height: 100px;
+}
